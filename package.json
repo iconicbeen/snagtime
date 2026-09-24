@@ -81,7 +81,7 @@
     "dotenv-cli": "11.0.0",
     "esbuild": "0.25.12",
     "eslint": "9.39.5",
-    "eslint-config-next": "16.3.2",
+    "eslint-config-next": "16.3.3",
     "prisma": "6.19.3",
     "smtp-server": "3.19.3",
     "tsx": "4.23.12",
